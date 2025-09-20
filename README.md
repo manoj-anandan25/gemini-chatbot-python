@@ -1,5 +1,5 @@
 ## Gemini Chatbot in Python (Terminal)
-
+dsjdsj
 A simple terminal-based chatbot built using **Google Generative AI (Gemini API)**.  
 This project lets you chat with Gemini directly from your command line.
 
